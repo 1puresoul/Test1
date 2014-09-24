@@ -4,8 +4,9 @@
 -two
 -one
 zero
+0.5
 first
-two
+222
 three
 four
 five
