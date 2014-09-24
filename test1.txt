@@ -5,10 +5,11 @@
 -one
 zero
 0.5
-first
+one
 222
 three
 four
 five
 six
 777
+eight
