@@ -6,6 +6,7 @@
 zero
 0.5
 one
+1.5
 222
 three
 four
@@ -13,3 +14,4 @@ five
 six
 777
 888
+999999
